@@ -22,7 +22,8 @@ body {
     Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: linear-gradient(180deg, #0a140c, rgb(255, 123, 0));
+  background-image: linear-gradient(180deg, #0a140c, rgb(133, 2, 194));
+  line-height: 1.3;
   /* background-image: linear-gradient(
     180deg,
     hsl(240deg 91% 49%) 0%,
