@@ -1,4 +1,4 @@
-# On-Scroll Typygorahy Animations
+<!-- # On-Scroll Typygorahy Animations
 
 Inspiration and ideas for on-scroll typography animations that add an extra layer of creativity to a website design.
 
@@ -45,4 +45,4 @@ Made with :blue_heart:  by [Codrops](http://www.codrops.com)
 
 
 
-
+ -->
